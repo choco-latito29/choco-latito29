@@ -2,7 +2,21 @@
 
 ## 🧠 Sobre mí<br><br>¡Hola! Soy 𝒞𝒽𝑜𝒸𝑜, un joven de 20 años, ingeniero en Sistemas e Informática.  <br>Apasionado por la tecnología y la programación, disfruto crear proyectos con impacto real: bots de Discord, plataformas educativas y sitios web modernos. Trabajo tanto en el **frontend** como en el **backend**, siempre en busca de aprender y mejorar.
 
-## 🛠️ Actualmente estoy trabajando en:<br><br>- 🤖 Bots para Discord con comandos slash, modales y sistemas de configuración.<br>- 📚 Plataformas educativas con autenticación por correo y Google.<br>- ☁️ Aplicaciones web fullstack usando APIs externas y diseño responsive.<br><br>---<br><br>## 🤝 Busco colaborar en<br><br>- Proyectos tecnológicos, educativos o sociales con impacto positivo.<br>- Equipos creativos con ideas innovadoras en desarrollo web.<br><br>---<br><br>## 💡 Estoy buscando ayuda con<br><br>- React.js y TypeScript para mejorar mis habilidades en frontend avanzado.<br><br>---<br><br>## 🌱 Actualmente estoy aprendiendo<br><br>- React<br>- TypeScript<br>- Seguridad en aplicaciones web modernas<br><br>---<br><br>## 💬 Pregúntame sobre<br><br>- Desarrollo web (HTML, CSS, JS, Node.js, Express)<br>- MongoDB, APIs REST, JWT, OAuth2<br>- Bots de Discord con discord.js y sistemas personalizados<br><br>---<br><br>## ⚡ Dato curioso<br><br>*"El código no solo resuelve problemas… también construye sueños que antes solo vivían en la imaginación."*<br><br>---<br><br>## 📲 Conéctate conmigo<br><br>- 📷 Instagram: [@choco_latito29](https://www.instagram.com/choco_latito29/)<br>- 💬 Discord: [𝒞𝒽𝑜𝒸𝑜#7556](https://discord.com/users/839194749444816979)<br><br>---<br><br>🎯 *Gracias por visitar mi perfil. Estoy en constante evolución, creando con propósito y aprendiendo con pasión.* 🚀<br>
+## 🛠️ Actualmente estoy trabajando en:<br><br>- 🤖 Bots para Discord con comandos slash, modales y sistemas de configuración.<br>- 📚 Plataformas educativas con autenticación por correo y Google.<br>- ☁️ Aplicaciones web fullstack usando APIs externas y diseño responsive.
+
+## 🤝 Busco colaborar en:<br><br>- Proyectos tecnológicos, educativos o sociales con impacto positivo.<br>- Equipos creativos con ideas innovadoras en desarrollo web.
+
+## 💡 Estoy buscando ayuda con:<br><br>- React.js y TypeScript para mejorar mis habilidades en frontend avanzado.
+
+## 🌱 Actualmente estoy aprendiendo<br><br>- React<br>- TypeScript<br>- Seguridad en aplicaciones web modernas
+
+## 💬 Pregúntame sobre:<br><br>- Desarrollo web (HTML, CSS, JS, Node.js, Express)<br>- MongoDB, APIs REST, JWT, OAuth2<br>- Bots de Discord con discord.js y sistemas personalizados
+
+## ⚡ Dato curioso:<br><br>*"El código no solo resuelve problemas… también construye sueños que antes solo vivían en la imaginación."*
+
+## 📲 Conéctate conmigo:<br><br>- 📷 Instagram: [@choco_latito29](https://www.instagram.com/choco_latito29/)<br>- 💬 Discord: [𝒞𝒽𝑜𝒸𝑜#7556](https://discord.com/users/839194749444816979)
+
+🎯 *Gracias por visitar mi perfil. Estoy en constante evolución, creando con propósito y aprendiendo con pasión.* 🚀<br>
 
 
 ## 🌐 Socials:
