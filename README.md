@@ -108,6 +108,7 @@ Cada línea de código es una oportunidad para mejorar 🚀
   <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Unity-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white" />
