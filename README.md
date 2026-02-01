@@ -67,7 +67,7 @@ Mi enfoque no es solo escribir código, sino **crear soluciones**. Actualmente l
       <br/>
       <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
     </td>
-    <td align="center" width="33%">
+  <td align="center" width="33%">
       <h3>🛡️ DevOps & Tools</h3>
       <p>Despliegue, control de versiones y seguridad.</p>
       <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
@@ -75,6 +75,8 @@ Mi enfoque no es solo escribir código, sino **crear soluciones**. Actualmente l
       <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
       <br/>
       <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />
+      <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
+      <img src="https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white" />
     </td>
   </tr>
 </table>
