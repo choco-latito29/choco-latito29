@@ -74,7 +74,7 @@ Mi enfoque no es solo escribir código, sino **crear soluciones**. Actualmente l
       <br/>
       
       <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-    </td>
+  </td>
   <td align="center" width="33%">
       <h3>🛡️ DevOps & Tools</h3>
       <p>Despliegue, control de versiones y seguridad.</p>
