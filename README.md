@@ -100,7 +100,7 @@ Mi enfoque no es solo escribir código, sino **crear soluciones**. Actualmente l
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/choco-latito29/choco-latito29/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/choco-latito29/choco-latito29/main/dist/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 <p align="center">
