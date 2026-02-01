@@ -26,15 +26,16 @@ Mi enfoque no es solo escribir código, sino **crear soluciones**. Actualmente l
 - **Ciberseguridad:** Implementando prácticas de defensa en profundidad en mis desarrollos.
 
 <div align="left">
-  <b>📫 Conectemos:</b>
-  <a href="https://discord.com/users/839194749444816979">
-    <img src="https://img.shields.io/badge/Discord-La_Fábrica-%235865F2.svg?style=flat-square&logo=discord&logoColor=white" />
+  <h3>📫 Central de Comunicaciones</h3>
+  <a href="https://discord.gg/smp7hwrXr4" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-Unirse_al_Servidor-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" target="_blank" />
   </a>
-  <a href="https://www.instagram.com/choco_latito29/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=instagram&logoColor=white" />
+  <br/> <a href="https://www.instagram.com/choco_latito29/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Seguir-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
   </a>
-  <a href="https://x.com/choco_latito29">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?style=flat-square&logo=x&logoColor=white" />
+  <br/>
+  <a href="https://x.com/choco_latito29" target="_blank">
+    <img src="https://img.shields.io/badge/X_(Twitter)-Seguir-black?style=for-the-badge&logo=x&logoColor=white" target="_blank" />
   </a>
 </div>
 <br/>
