@@ -1,0 +1,8 @@
+# Archivos de sistema (Basura)
+.DS_Store
+Thumbs.db
+*.log
+
+# Seguridad (Por si acaso se te escapa algo)
+.env
+node_modules/

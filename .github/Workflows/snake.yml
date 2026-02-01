@@ -1,0 +1,32 @@
+name: Generate Snake
+
+on:
+  # Se ejecuta automáticamente cada 24 horas
+  schedule:
+    - cron: "0 0 * * *"
+
+  # Permite ejecutarlo manualmente desde la pestaña Actions
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Generate Snake
+        uses: Platane/snk@v3
+        id: snake-gif
+        with:
+          github_user_name: choco-latito29
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push to GitHub
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
+          force: true

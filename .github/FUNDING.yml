@@ -1,0 +1,8 @@
+# 🏭 FÁBRICA CHOCO - INFRAESTRUCTURA DE FINANCIACIÓN
+# Este archivo configura el botón "Sponsor" en la parte superior del repositorio.
+
+# 1. GitHub Sponsors (Déjalo comentado o vacío hasta que te acepten en el programa)
+github:
+
+# 2. Enlaces personalizados (Aquí va tu PayPal directo)
+custom: ["https://paypal.me/choquto21"]

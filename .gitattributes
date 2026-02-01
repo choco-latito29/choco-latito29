@@ -1,0 +1,9 @@
+# Auto-detectar archivos de texto y normalizar saltos de línea
+* text=auto
+
+# Tratar las imágenes como binarios (¡CRÍTICO para que no se rompan!)
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.svg binary
+*.gif binary
