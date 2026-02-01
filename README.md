@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./Assets/banner.png" width="100%" alt="Banner Fábrica Choco - Systems Engineering & Bot Development" />
+  <img src="./Assets/banner.png" width="100%" alt="Banner Fábrica Choco" />
 </div>
 
 <br/>
@@ -80,33 +80,26 @@ Mi enfoque no es solo escribir código, sino **crear soluciones**. Actualmente l
 
 ---
 
-## 📊 Métricas de Producción
+## 📊 Panel de Control (Dashboard)
 
 <div align="center">
-  <a href="https://github.com/choco-latito29">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=choco-latito29&theme=espresso&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
-  </a>
-  <a href="https://github.com/choco-latito29">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=choco-latito29&theme=espresso&hide_border=true&layout=compact&langs_count=6" />
-  </a>
+  
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=choco-latito29&theme=slateorange" alt="Perfil" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=choco-latito29&theme=slateorange" alt="Lenguajes" />
+  
+  <br/>
+
+  <h3>📡 Telemetría de Red</h3>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=choco-latito29&bg_color=0d1117&color=e88c3a&line=e88c3a&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+
 </div>
 
 <br/>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=choco-latito29&theme=espresso&no-frame=true&margin-w=15&no-bg=true" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/choco-latito29/choco-latito29/main/dist/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=choco-latito29&icon=5&color=12" />
+  <img src="https://komarev.com/ghpvc/?username=choco-latito29&style=flat-square&label=VISITAS&color=e88c3a" alt="Visit Counter" />
 </p>
 
 <p align="center">
-  <sub>🏭 Creado desde el Core de la <strong>Fábrica Choco</strong> © 2026</sub>
+  <sub>🏭 Core System Online — <strong>Choco Factory</strong> © 2026</sub>
 </p>
