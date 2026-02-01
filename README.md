@@ -61,13 +61,18 @@ Mi enfoque no es solo escribir código, sino **crear soluciones**. Actualmente l
       <br/>
       <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
     </td>
-    <td align="center" width="33%">
+  <td align="center" width="33%">
       <h3>⚙️ Backend & Core</h3>
       <p>Lógica robusta, APIs y gestión de datos.</p>
+      
       <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" />
       <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
       <br/>
+      
+      <img src="https://img.shields.io/badge/Express.js-%23404D59.svg?style=for-the-badge&logo=express&logoColor=white" />
+      <br/>
+      
       <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
     </td>
   <td align="center" width="33%">
